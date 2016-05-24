@@ -10,7 +10,6 @@ This curated list is on very early stage. So, let's make it together!
    - Based on code-prettify the summernote code highlighting plugin
  - [summernote-ace-plugin](https://github.com/wubin1989/summernote-ace-plugin)
    - Based on Ace(https://ace.c9.io/#nav=about) the summernote code highlighting plugin
-
 ### Emojis
  - [summernote-emojione-plugin](https://github.com/bmironov/summernote-emojione-plugin)
    - Full list of EmojiOne icons as buttons in modal window divided under multiple tabs (based on specialchar plugin v0.6.16)
@@ -32,6 +31,8 @@ This curated list is on very early stage. So, let's make it together!
    - Summernote Plugin for elFinder File Manager
  - [uploadcare-summernote](https://github.com/uploadcare/uploadcare-summernote)
    - Uploadcare plugin for Summernote. It will allow your users to upload files and images from local device, social networks, cloud storages without any backend code that is usually required to handle uploads.
+- [summernote-rtl-plugin](https://github.com/virtser/summernote-rtl-plugin)
+   - Summernote RTL plugin. This extensions allows to add two new buttons to Summernote editor toolbar. Those buttons let user change text direction to either LTR (left to right) or RTL (right to left).
 
 ### Misc
  - [summernote-ext-print](https://github.com/lqez/summernote-ext-print)
